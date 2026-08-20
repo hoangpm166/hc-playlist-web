@@ -1,3 +1,9 @@
+# HC Playlist v0.2.1 — Login Status Fix
+
+- Sửa lỗi `/api/auth/login`: headers bị truyền nhầm vào tham số HTTP status.
+- Không thay đổi D1, Google OAuth, UI hoặc schema.
+- Health version: `0.2.1-login-fix`.
+
 # HC Playlist v0.2 — Phase 1 Auth + Google OAuth + Real Channels
 
 ## Đã triển khai
