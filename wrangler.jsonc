@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "hc-playlist-web",
+  "main": "src/index.js",
+  "compatibility_date": "2026-08-20",
+  "vars": {
+    "APP_ID": "hc-playlist",
+    "ADMIN_ORIGIN": "https://admin.hcmediadn.com"
+  }
+}
